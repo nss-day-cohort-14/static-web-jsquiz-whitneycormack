@@ -1,6 +1,5 @@
 # static-web-jsquiz-whitneycormack
 
-
 The Static Web JavaScript Quiz
 Setup
 
